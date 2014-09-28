@@ -1,0 +1,136 @@
+body{
+    
+    background-image: url("skulls.png");
+    margin-bottom: 100px;
+    
+}
+
+
+h1{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    
+    
+}
+
+
+p{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+#contactf{
+    font-size:10px;
+    float: left;
+    clear: left;
+}
+
+
+#profile_pic{
+    
+    position:absolute;
+    -webkit-transform: rotate(7deg);
+    margin-left: 750px;
+    margin-top: -50px;
+
+}
+
+
+#pic{
+	height: 180px;
+	width:180px;
+}
+
+
+
+
+
+.Description{
+    clear: left;
+    
+    
+    
+}
+
+
+
+
+hr{
+      height: 5px;
+      width: 65%;
+      float: left;
+      
+    border: 1;
+    box-shadow: inset 0 9px 9px -3px rgba(141,179,134,0.8);
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      -o-border-radius: 5px;
+      border-radius: 5px;
+
+}
+
+
+#intro{
+	 clear: left;
+    float:left;
+    margin-top:90px;
+    margin-left: 100px;
+    margin-bottom: 70px;
+    width: 50%;
+}
+
+div.vertical-line{
+  width: 0px; /* Use only border style */
+  height: 100%;
+  border: 2px inset; /* This is default border style for <hr> tag */
+  margin-left: 121px;
+  
+}
+
+.part{
+float: left;
+clear: left;
+margin-top: 70px;
+}
+
+.left{
+float: left;
+width: 120px;
+}
+
+.right{
+margin-left: 10px;
+width: 500px;
+}
+
+
+html, body, #container { height: 100%; }
+body > #container { height: auto; min-height: 100%; }
+
+#footer {
+ clear: both;
+ position: relative;
+ z-index: 10;
+ height: 10em;
+ margin-top: -3em;
+ 
+ 
+}
+
+#twitter{
+	position: relative;
+	margin-top: 70px;
+	margin-left: 750px;
+	
+
+}
+
+#g+{
+position: relative;
+margin-top: 70px;
+margin-left: 830px;
+}
+
+#content { padding-bottom: 3em; }
+
+
